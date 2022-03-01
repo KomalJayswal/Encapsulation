@@ -25,8 +25,8 @@ class Encapsulation_Bank {
  * Now Ashsish went home, and via net Banking wants to check his Account Balance.
  */
 class Encapsulation_NetBanking {
-    public static void main(String a[]) {
+    public static void main(String[] a) {
         Encapsulation_Bank user = new Encapsulation_Bank();
-        System.out.printf(String.valueOf(user.balance));
+        System.out.print(user.balance);
     }
 }
