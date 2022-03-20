@@ -28,5 +28,8 @@ class Encapsulation_NetBanking {
     public static void main(String[] a) {
         Encapsulation_Bank user = new Encapsulation_Bank();
         System.out.print(user.balance);
+        /*
+        OK, till inserting the data its fine. Now lets say Ashish or someone else wants to update the data
+         */
     }
 }
