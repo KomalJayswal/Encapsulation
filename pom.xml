@@ -8,11 +8,11 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>Practice</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>Practice</name>
-	<description>Demo project for Spring Boot</description>
+	<groupId>net.learning</groupId>
+	<artifactId>oop</artifactId>
+	<version>1.0.0</version>
+	<name>Fundamental Principles of OOP</name>
+	<description>Practical Implementation of Encpsulation</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>

@@ -1,10 +1,10 @@
-package com.example.Practice;
+package net.learning.oop;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PracticeApplicationTests {
+class OopApplicationTests {
 
 	@Test
 	void contextLoads() {
